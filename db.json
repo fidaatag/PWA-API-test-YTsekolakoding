@@ -1,0 +1,24 @@
+{
+  "product" : [
+      {"id":1,"name":"Hippopotamus","category":"Yellow"},
+      {"id":2,"name":"Small-clawed otter","category":"Red"},
+      {"id":3,"name":"Marmot, yellow-bellied","category":"Maroon"},
+      {"id":4,"name":"Baboon, gelada","category":"Puce"},
+      {"id":5,"name":"Squirrel, thirteen-lined","category":"Green"},
+      {"id":6,"name":"American woodcock","category":"Green"},
+      {"id":7,"name":"Pigeon, feral rock","category":"Puce"},
+      {"id":8,"name":"Whale, long-finned pilot","category":"Green"},
+      {"id":9,"name":"Margay","category":"Orange"},
+      {"id":10,"name":"Antechinus, brown","category":"Maroon"},
+      {"id":11,"name":"Asian false vampire bat","category":"Green"},
+      {"id":12,"name":"Raccoon, common","category":"Green"},
+      {"id":13,"name":"Kingfisher, malachite","category":"Purple"},
+      {"id":14,"name":"Nilgai","category":"Red"},
+      {"id":15,"name":"Common rhea","category":"Orange"},
+      {"id":16,"name":"African polecat","category":"Teal"},
+      {"id":17,"name":"Shrew, mandras tree","category":"Green"},
+      {"id":18,"name":"Dragonfly, russian","category":"Indigo"},
+      {"id":19,"name":"Dragonfly, russian","category":"Goldenrod"},
+      {"id":20,"name":"Red sheep","category":"Maroon"}
+  ]
+}
